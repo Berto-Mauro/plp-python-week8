@@ -1,0 +1,97 @@
+PERSONAL MINI-TOOLKIT PLAN
+
+My Personal Mini-Toolkit will contain four simple tools. The tools are a simple calculator, a to-do list, a number guessing game, and a name formatter.
+
+TOOL 1: SIMPLE CALCULATOR
+
+The calculator allows the user to enter two numbers and perform addition, subtraction, multiplication, or division.
+
+Concepts used:
+
+-Variables
+-User input
+-If and elif statements
+-Arithmetic operators
+-F-strings
+
+==TOOL 2: TO-DO LIST==
+
+The to-do list allows the user to add, view, and remove tasks while the program is running.
+
+Concepts used:
+
+-Lists
+-Loops
+-User input
+-Conditionals
+-F-strings
+
+==TOOL 3: NUMBER GUESSING GAME==
+
+The number guessing game chooses a secret number and allows the user to keep guessing until they find the correct number.
+
+Concepts used:
+
+-Variables
+-Loops
+-Conditionals
+-User input
+-F-strings
+
+==TOOL 4: NAME FORMATTER==
+
+The name formatter asks the user for their first and last names and displays them in a clean format.
+
+Concepts used:
+
+-Variables
+-User input
+-Strings
+-F-strings
+
+==MAIN MENU==
+
+Welcome to My Personal Mini-Toolkit!
+
+Please choose a tool:
+
+Simple Calculator
+To-Do List
+Number Guessing Game
+Name Formatter
+Quit
+
+Enter your choice:
+
+PROGRAM FLOW
+
+The program will start with a welcome message and display the main menu.
+
+The menu will continue to appear until the user chooses Quit.
+
+The program will use if, elif, and else statements to decide which tool to run.
+
+If the user enters an invalid choice, the program will display a polite message instead of crashing.
+
+After a tool finishes, the user will return to the main menu.
+
+When the user chooses Quit, the program will display a friendly goodbye message.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
